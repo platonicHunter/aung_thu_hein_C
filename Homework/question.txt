@@ -1,0 +1,35 @@
+Level 1: Very Easy
+
+Print numbers from 1 to 10 using a for loop.
+
+Print numbers from 10 to 1 using a for loop.
+
+Print even numbers from 1 to 20.
+
+Print odd numbers from 1 to 20.
+
+Print your name 5 times using a loop.
+
+🟡 Level 2: Easy
+
+Print the multiplication table of 5.
+
+Find the sum of numbers from 1 to 10.
+
+Find the sum of even numbers from 1 to 100.
+
+Print the square of numbers from 1 to 10.
+
+Print all numbers between 1 and 100 that are divisible by 3.
+
+🟠 Level 3: Medium
+
+Take a number from user and print its multiplication table.
+
+Count how many numbers between 1 and 100 are divisible by 7.
+
+Print the reverse of a number (e.g., 123 → 321).
+
+Find the factorial of a number.
+
+Print all factors of a number.
