@@ -41,8 +41,18 @@ int main()
     }
 
     // Print odd numbers from 1 to 20.
+    printf("For looping with odd numbers from 1 to 20\n");
+    for (int i = 1; i < 20; i += 2)
+    {
+        printf("%d\n", i);
+    }
 
     // Print your name 5 times using a loop.
+    printf("For looping your name 5 times using a loop\n");
+    for (int i = 0; i < 5; i++)
+    {
+        printf("My name\n");
+    }
 
     return 0;
 }
