@@ -5,7 +5,7 @@ int main()
     // pointer(&)=> a "variable-like" taht holds a memory address
 
     int age = 2;
-    printf("%d\n", age);
+    printf("value : %d\n", age);
     printf("address : %p\n", &age); // memory address
 
     // pointer declaration(*)
