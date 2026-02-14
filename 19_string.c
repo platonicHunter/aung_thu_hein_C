@@ -7,10 +7,10 @@ int main()
     // char *name = "Aung Thu";
     printf("%s\n", name);
 
-    // fputs(write)(stdout => write in terminal)
+    // fputs(write to file)(stdout => write in terminal)
     fputs("Hello\n", stdout);
 
-    // fgets(read)
+    // fgets(read from file)
     char word[20];
     char *p;
     p = &word[0];
